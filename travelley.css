@@ -80,7 +80,7 @@ nav ul {
 
 /* hero section */
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url("/front22.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url("dubai.jpg");
     min-height: 90vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -116,7 +116,7 @@ button:hover {
 #locations {
     min-height: 100vh;
 
-    background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url("/imgg/new-york-page.png");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url("newyork.png");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -219,7 +219,7 @@ border-top-right-radius: 3rem;
 /* CONTACT SECTION */
 #contact{
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url("./pic.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), transparent), url("rock.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
